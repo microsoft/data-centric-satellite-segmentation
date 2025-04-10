@@ -1,0 +1,14 @@
+top_potsdam_2_13_RGBIR dsm_potsdam_02_13_normalized_lastools top_potsdam_2_13_label -1 -1 1.0
+top_potsdam_2_14_RGBIR dsm_potsdam_02_14_normalized_lastools top_potsdam_2_14_label -1 -1 1.0
+top_potsdam_3_13_RGBIR dsm_potsdam_03_13_normalized_lastools top_potsdam_3_13_label -1 -1 1.0
+top_potsdam_3_14_RGBIR dsm_potsdam_03_14_normalized_lastools top_potsdam_3_14_label -1 -1 1.0
+top_potsdam_4_13_RGBIR dsm_potsdam_04_13_normalized_lastools top_potsdam_4_13_label -1 -1 1.0
+top_potsdam_4_14_RGBIR dsm_potsdam_04_14_normalized_lastools top_potsdam_4_14_label -1 -1 1.0
+top_potsdam_4_15_RGBIR dsm_potsdam_04_15_normalized_lastools top_potsdam_4_15_label -1 -1 1.0
+top_potsdam_5_13_RGBIR dsm_potsdam_05_13_normalized_lastools top_potsdam_5_13_label -1 -1 1.0
+top_potsdam_5_14_RGBIR dsm_potsdam_05_14_normalized_lastools top_potsdam_5_14_label -1 -1 1.0
+top_potsdam_5_15_RGBIR dsm_potsdam_05_15_normalized_lastools top_potsdam_5_15_label -1 -1 1.0
+top_potsdam_6_13_RGBIR dsm_potsdam_06_13_normalized_lastools top_potsdam_6_13_label -1 -1 1.0
+top_potsdam_6_14_RGBIR dsm_potsdam_06_14_normalized_lastools top_potsdam_6_14_label -1 -1 1.0
+top_potsdam_6_15_RGBIR dsm_potsdam_06_15_normalized_lastools top_potsdam_6_15_label -1 -1 1.0
+top_potsdam_7_13_RGBIR dsm_potsdam_07_13_normalized_lastools top_potsdam_7_13_label -1 -1 1.0

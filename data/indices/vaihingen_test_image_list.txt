@@ -1,0 +1,17 @@
+top_mosaic_09cm_area31 dsm_09cm_matching_area31 top_mosaic_09cm_area31 -1 -1 1.0
+top_mosaic_09cm_area14 dsm_09cm_matching_area14 top_mosaic_09cm_area14 -1 -1 1.0
+top_mosaic_09cm_area29 dsm_09cm_matching_area29 top_mosaic_09cm_area29 -1 -1 1.0
+top_mosaic_09cm_area12 dsm_09cm_matching_area12 top_mosaic_09cm_area12 -1 -1 1.0
+top_mosaic_09cm_area6 dsm_09cm_matching_area6 top_mosaic_09cm_area6 -1 -1 1.0
+top_mosaic_09cm_area22 dsm_09cm_matching_area22 top_mosaic_09cm_area22 -1 -1 1.0
+top_mosaic_09cm_area38 dsm_09cm_matching_area38 top_mosaic_09cm_area38 -1 -1 1.0
+top_mosaic_09cm_area24 dsm_09cm_matching_area24 top_mosaic_09cm_area24 -1 -1 1.0
+top_mosaic_09cm_area16 dsm_09cm_matching_area16 top_mosaic_09cm_area16 -1 -1 1.0
+top_mosaic_09cm_area8 dsm_09cm_matching_area8 top_mosaic_09cm_area8 -1 -1 1.0
+top_mosaic_09cm_area20 dsm_09cm_matching_area20 top_mosaic_09cm_area20 -1 -1 1.0
+top_mosaic_09cm_area35 dsm_09cm_matching_area35 top_mosaic_09cm_area35 -1 -1 1.0
+top_mosaic_09cm_area10 dsm_09cm_matching_area10 top_mosaic_09cm_area10 -1 -1 1.0
+top_mosaic_09cm_area4 dsm_09cm_matching_area4 top_mosaic_09cm_area4 -1 -1 1.0
+top_mosaic_09cm_area33 dsm_09cm_matching_area33 top_mosaic_09cm_area33 -1 -1 1.0
+top_mosaic_09cm_area27 dsm_09cm_matching_area27 top_mosaic_09cm_area27 -1 -1 1.0
+top_mosaic_09cm_area2 dsm_09cm_matching_area2 top_mosaic_09cm_area2 -1 -1 1.0

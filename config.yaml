@@ -1,0 +1,45 @@
+trainer:
+    accelerator : 'gpu'
+    precision: '16-mixed'
+    min_epochs: 6
+    max_epochs: 100
+    benchmark: True
+    log_every_n_steps: 10
+learning:
+    model: "unet"
+    loss: "ce"
+    backbone: "resnet18"
+    weights: "imagenet"
+    learning_rate: 1e-3
+    learning_rate_schedule_patience: 6
+datamodule:
+    root: "./data"  # Note: put the root where all dataset directories exist (as in `README.md`)
+    batch_size: 32
+    num_workers: 4
+    patch_size: 256
+evaluation:
+    runs: 3
+    sizes: [.01, .05, .1, .25, .5]
+
+datasets:
+    vaihingen:
+        in_channels: 4
+        ignore_index: -1
+        num_classes: 6
+        dsm_min: -79.18
+        dsm_max: 3020.26
+        pad_size: [3840, 3840]
+    potsdam:
+        in_channels: 5
+        ignore_index: -1
+        num_classes: 6
+        dsm_min: -79.18
+        dsm_max: 3020.26
+        pad_size: [6016, 6016]
+    dfc22:
+        in_channels: 4
+        ignore_index: 0
+        num_classes: 16
+        dem_min: -79.18
+        dem_max: 3020.26
+        pad_size: [2048, 2048]

@@ -1,0 +1,5 @@
+top_mosaic_09cm_area11 dsm_09cm_matching_area11 top_mosaic_09cm_area11 -1 -1 1.0
+top_mosaic_09cm_area15 dsm_09cm_matching_area15 top_mosaic_09cm_area15 -1 -1 1.0
+top_mosaic_09cm_area28 dsm_09cm_matching_area28 top_mosaic_09cm_area28 -1 -1 1.0
+top_mosaic_09cm_area30 dsm_09cm_matching_area30 top_mosaic_09cm_area30 -1 -1 1.0
+top_mosaic_09cm_area34 dsm_09cm_matching_area34 top_mosaic_09cm_area34 -1 -1 1.0
